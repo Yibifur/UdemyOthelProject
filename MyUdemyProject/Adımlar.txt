@@ -1,0 +1,4 @@
+Api Testi ve Swagger (Complete)
+Frontend tarafýnda modeller yerine Dtolar kullanýlacak her entity için controller lsr buna göre hazýrlanacak
+tema eklenecek
+register ve login iþlemleri yapýlacak
