@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyUdemyProject",
+    "\\MyUdemyProject\\Frontend",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial"
+  ],
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
+  "PreviewInSolutionExplorer": false
+}

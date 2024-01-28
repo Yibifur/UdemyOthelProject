@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lsUkCsX0Hlb27zKuLZwG02txe+d2eZXeKjujliPtqWZhSm26k9buD4zyMTW6CyMNQ/zRSEE79XpKC3tHsX/OCQ==",
+  "dgSpecHash": "92piJo2ccA5OJQL27/gD6GDSjzxn/3nfP4ErWVIfbujK5CW/9F1m+4LzfzQElGU/Lf2G16GEiZCGSRvgtuq2dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yibif\\source\\repos\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\UdemyOthelProject\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yibif\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Yibif\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
