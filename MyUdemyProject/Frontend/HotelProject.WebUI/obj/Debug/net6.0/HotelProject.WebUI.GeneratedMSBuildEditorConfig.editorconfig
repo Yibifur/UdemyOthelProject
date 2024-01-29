@@ -50,8 +50,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcX0FkbWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Default/_SubscribePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxfU3Vic2NyaWJlUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Home/Index.cshtml]
@@ -98,10 +106,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Shared/Components/_NewsletterPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05ld3NsZXR0ZXJQYXJ0aWFsXERlZmF1bHQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Shared/Components/_OurRoomsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX091clJvb21zUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -124,6 +128,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Shared/Components/_SpinnerPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NwaW5uZXJQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Shared/Components/_SubscribePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N1YnNjcmliZVBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/Shared/Components/_TeamPartial/Default.cshtml]

@@ -23,6 +23,12 @@ builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
 //Testimonial classý için uyarlama
 builder.Services.AddScoped<ITestimonialDal, EfTestimonialDal>();
 builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
+//About classý için uyarlama
+builder.Services.AddScoped<IAboutDal, EfAboutDal>();
+builder.Services.AddScoped<IAboutService, AboutManager>();
+//Booking Classý için uyarlama
+builder.Services.AddScoped<IBookingDal, EfBookingDal>();
+builder.Services.AddScoped<IBookingService, BookingManager>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddCors(opt =>

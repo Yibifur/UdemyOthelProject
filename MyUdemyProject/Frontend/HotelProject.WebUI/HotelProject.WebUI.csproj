@@ -29,11 +29,4 @@
     <ProjectReference Include="..\..\ApiConsume\HotelProject.EntityLayer\HotelProject.EntityLayer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\RoomDto\" />
-    <Folder Include="Dtos\SubscribeDto\" />
-    <Folder Include="Dtos\StaffDto\" />
-    <Folder Include="Dtos\TestimonialDto\" />
-  </ItemGroup>
-
 </Project>
