@@ -4,13 +4,13 @@
     "\\MyUdemyProject",
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos\\BookingDto",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial"
   ],
-  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Dtos\\BookingDto\\CreateBookingDto.cs",
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
