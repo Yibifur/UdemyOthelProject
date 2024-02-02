@@ -2,14 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\MyUdemyProject",
+    "\\MyUdemyProject\\ApiConsume",
+    "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer",
+    "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Repositories",
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial"
   ],
+  "SelectedNode": "\\MyUdemyProject\\MyUdemyProject.sln",
   "PreviewInSolutionExplorer": false
 }
