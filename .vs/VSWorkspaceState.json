@@ -2,16 +2,18 @@
   "ExpandedNodes": [
     "",
     "\\MyUdemyProject",
-    "\\MyUdemyProject\\ApiConsume",
-    "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer",
-    "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Repositories",
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial"
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_SliderPartial",
+    "\\MyUdemyProject\\RapidApi",
+    "\\MyUdemyProject\\RapidApi\\RapidApiConsume",
+    "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
+    "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\Booking",
+    "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\MyUdemyProject.sln",
+  "SelectedNode": "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
