@@ -27,7 +27,7 @@ namespace RapidApiConsume.Controllers
                 var values=JsonConvert.DeserializeObject<BookingApiViewModel>(body);
                 return View(values.data.hotels.ToList());
             }
-            return View();
+            
         }
     }
 }

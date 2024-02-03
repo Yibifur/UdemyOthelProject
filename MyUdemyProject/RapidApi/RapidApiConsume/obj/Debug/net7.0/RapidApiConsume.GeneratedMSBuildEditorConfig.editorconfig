@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\RapidApi\RapidApiConsume
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/RapidApi/RapidApiConsume/Views/BookingByCity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ0J5Q2l0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/RapidApi/RapidApiConsume/Views/Booking/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

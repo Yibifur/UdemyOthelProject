@@ -9,12 +9,19 @@
 <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 <div class="container">
     <br /> <br />
+    @using (Html.BeginForm("Index", "SearchLocationID", FormMethod.Post))
+    {
+        <label>Bir Şehir Adı Giriniz</label>
+        <input type="text" class="form-control" name="cityName"  />
+        <br />
+        <button class="btn btn-primary">Bir Şehir ID Bul</button>
+    }
     <table class="table table-bordered">
         <tr>
             
             <th>Lokasyon</th>
         </tr>
-        @foreach (var item in Model.data)
+        @foreach (var item in Model.data.Take(1))
         {
             <tr>
                
@@ -22,8 +29,10 @@
                 
             </tr>
         }
-
-
-
     </table>
+    <br />
+    <a href="/BookingByCity/Index/" class="btn btn-dark">Yeni Otel Rezervasyon Bilgisi</a>
+
+
+    
 </div>

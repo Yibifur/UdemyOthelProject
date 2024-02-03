@@ -12,8 +12,9 @@
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\Booking",
+    "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\BookingByCity",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID\\Index.cshtml",
+  "SelectedNode": "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\BookingByCity\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
