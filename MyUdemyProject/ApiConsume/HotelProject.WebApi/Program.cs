@@ -29,6 +29,10 @@ builder.Services.AddScoped<IAboutService, AboutManager>();
 //Booking Classý için uyarlama
 builder.Services.AddScoped<IBookingDal, EfBookingDal>();
 builder.Services.AddScoped<IBookingService, BookingManager>();
+//Contact Classý için uyarlama
+builder.Services.AddScoped<IContactDal, EfContactDal>();
+builder.Services.AddScoped<IContactService, ContactManager>();
+
 
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddCors(opt =>
