@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/AdminAbout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/AdminAbout/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxVcGRhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Yibif/OneDrive/Belgeler/GitHub/UdemyOthelProject/MyUdemyProject/Frontend/HotelProject.WebUI/Views/AdminLayout/FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcRm9vdGVyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
