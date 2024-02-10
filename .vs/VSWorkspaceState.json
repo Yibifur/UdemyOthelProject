@@ -5,14 +5,12 @@
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Shared\\Components\\_NavbarPartial",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout",
     "\\MyUdemyProject\\RapidApi",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\MyUdemyProject.sln",
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout\\SidebarPartial.cshtml",
   "PreviewInSolutionExplorer": false
 }
