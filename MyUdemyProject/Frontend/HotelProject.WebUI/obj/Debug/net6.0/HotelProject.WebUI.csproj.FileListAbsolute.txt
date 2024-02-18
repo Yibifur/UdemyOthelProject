@@ -519,3 +519,7 @@ C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Fronten
 C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.pdb
 C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.genruntimeconfig.cache
 C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\obj\Debug\net6.0\ref\HotelProject.WebUI.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.MvcApplicationPartsAssemblyInfo.cs

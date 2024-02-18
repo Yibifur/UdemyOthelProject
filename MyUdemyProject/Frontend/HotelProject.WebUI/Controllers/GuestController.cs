@@ -33,14 +33,19 @@ namespace HotelProject.WebUI.Controllers
         [HttpGet]
         public async Task<IActionResult> UpdateGuest(int id)
         {
-            var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync($"http://localhost:5231/api/Guest/{id}");
-            if (responseMessage.IsSuccessStatusCode)
+            if (ModelState.IsValid)
             {
+                var client = _httpClientFactory.CreateClient();
+                 var responseMessage = await client.GetAsync($"http://localhost:5231/api/Guest/{id}");
+                 if (responseMessage.IsSuccessStatusCode)
+                 {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var values = JsonConvert.DeserializeObject<UpdateGuestDto>(jsonData);
                 return View(values);    
+                 }
+
             }
+            else { return View(); }
             return View();
         }
         [HttpPost]
@@ -64,6 +69,8 @@ namespace HotelProject.WebUI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddGuest(CreateGuestDto model)
         {
+            if(ModelState.IsValid)
+            {
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(model);
             StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
@@ -71,6 +78,11 @@ namespace HotelProject.WebUI.Controllers
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
+            }
+            }
+            else
+            {
+                return View();
             }
             return View();
         }
