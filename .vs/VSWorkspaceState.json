@@ -5,12 +5,12 @@
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Guest",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminContact",
     "\\MyUdemyProject\\RapidApi",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Program.cs",
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminContact\\Inbox.cshtml",
   "PreviewInSolutionExplorer": false
 }
