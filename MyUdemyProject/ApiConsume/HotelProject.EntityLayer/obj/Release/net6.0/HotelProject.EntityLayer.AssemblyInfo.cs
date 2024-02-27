@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelProject.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d39a9fe4e550f5e9719ea6415b7959a9295e9a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2b020a8b307b7faefdd05f406a68b6aec822173")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelProject.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelProject.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

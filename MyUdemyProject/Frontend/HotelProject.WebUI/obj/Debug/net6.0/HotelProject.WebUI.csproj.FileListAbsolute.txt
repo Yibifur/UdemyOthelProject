@@ -523,3 +523,7 @@ C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Fronten
 C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\obj\Debug\net6.0\HotelProject.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\MailKit.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\Frontend\HotelProject.WebUI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
