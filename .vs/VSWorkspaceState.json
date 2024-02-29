@@ -11,6 +11,6 @@
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminMail\\Index.cshtml",
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\AdminMailController.cs",
   "PreviewInSolutionExplorer": false
 }
