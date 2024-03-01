@@ -5,12 +5,12 @@
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
-    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminMail",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout",
     "\\MyUdemyProject\\RapidApi",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\AdminMailController.cs",
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout\\SidebarPartial.cshtml",
   "PreviewInSolutionExplorer": false
 }
