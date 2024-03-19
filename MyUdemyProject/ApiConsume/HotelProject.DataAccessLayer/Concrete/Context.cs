@@ -14,7 +14,7 @@ namespace HotelProject.DataAccessLayer.Concrete
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //Trusted_Connection = True;TrustServerCertificate=True
-            optionsBuilder.UseSqlServer(@"Server = YIGITMONSTER\YIGITSQL;initial catalog=ApiDb;integrated security=true");
+            optionsBuilder.UseSqlServer(@"Server = YIGITMONSTER\SQLEXPRESS;initial catalog=ApiDb;integrated security=true");
         }
         public DbSet<Room> Rooms { get; set; }
         public DbSet<Service> Services { get; set; }

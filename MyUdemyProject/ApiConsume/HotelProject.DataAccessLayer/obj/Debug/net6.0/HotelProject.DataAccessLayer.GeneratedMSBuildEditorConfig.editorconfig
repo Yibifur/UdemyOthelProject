@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HotelProject.DataAccessLayer
-build_property.ProjectDir = C:\Users\Yibif\OneDrive\Belgeler\GitHub\UdemyOthelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\
+build_property.ProjectDir = C:\Users\yibif\Documents\GitHub\UdemyOthelProject\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

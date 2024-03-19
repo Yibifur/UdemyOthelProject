@@ -15,5 +15,11 @@ namespace HotelProject.DataAccessLayer.EntityFramework
         public EfSendMessageDal(Context _context) : base(_context)
         {
         }
+
+        public int GetSendMessageCount()
+        {
+            var context=new Context();
+            return context.SendMessages.Count();
+        }
     }
 }

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsendmessagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsendmessagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.dataaccesslayer\\abstract\\isendmessagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\abstract\\isendmessagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A853F35-F623-4F50-8CC5-7320142E8FD5}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A853F35-F623-4F50-8CC5-7320142E8FD5}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\abstract\\isendmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\abstract\\isendmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\sendmessagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\sendmessagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A853F35-F623-4F50-8CC5-7320142E8FD5}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.webapi\\controllers\\sendmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A853F35-F623-4F50-8CC5-7320142E8FD5}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\sendmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2881909D-D09D-437B-AF5E-11DC3D65DD61}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efcontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efcontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\yibif\\documents\\github\\udemyothelproject\\myudemyproject\\apiconsume\\hotelproject.dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A167DD0-F3F0-4A3B-9DC5-6FD9FB5F4F19}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\SendMessageController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\SendMessageController.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\SendMessageController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\SendMessageController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:51:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMessageManager.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SendMessageManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SendMessageManager.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SendMessageManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SendMessageManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:50:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISendMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISendMessageService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISendMessageService.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISendMessageService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISendMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:50:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfSendMessageDal.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:49:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISendMessageDal.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISendMessageDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISendMessageDal.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISendMessageDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISendMessageDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:48:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:38:14.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ContactManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:37:14.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:36:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:09:52.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IContactDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IContactDal.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\UdemyOthelProject\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IContactDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IContactDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:09:07.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
