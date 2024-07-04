@@ -38,6 +38,9 @@ builder.Services.AddScoped<IGuestService, GuestManager>();
 //SendMessage Classý için uyarlama
 builder.Services.AddScoped<ISendMessageDal, EfSendMessageDal>();
 builder.Services.AddScoped<ISendMessageService, SendMessageManager>();
+//MessageCategory Classý için uyarlama
+builder.Services.AddScoped<IMessageCategoryDal, EfMessageCategoryDal>();
+builder.Services.AddScoped<IMessageCategoryService, MessageCategoryManager>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddCors(opt =>

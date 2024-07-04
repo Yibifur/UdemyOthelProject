@@ -2,18 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\MyUdemyProject",
-    "\\MyUdemyProject\\ApiConsume",
-    "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer",
-    "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework",
     "\\MyUdemyProject\\Frontend",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views",
+    "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminContact",
     "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\Testimonial",
-    "\\MyUdemyProject\\RapidApi",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views",
     "\\MyUdemyProject\\RapidApi\\RapidApiConsume\\Views\\SearchLocationID"
   ],
-  "SelectedNode": "\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
+  "SelectedNode": "\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\AdminContact\\SideBarAdminContactPartial.cshtml",
   "PreviewInSolutionExplorer": false
 }
